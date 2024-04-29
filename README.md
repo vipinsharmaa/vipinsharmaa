@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vipin Sharma and I am a passionate Full Stack Developer.
+My name is Vipin Sharma and I am a self learning Full Stack Web Development.
 
 <!--
 **vipinsharmaa/vipinsharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
